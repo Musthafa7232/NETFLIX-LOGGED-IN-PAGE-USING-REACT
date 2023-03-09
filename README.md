@@ -1,8 +1,7 @@
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-<img width=“964” alt=“java 8 and prio java 8  array review example” src="(public/netflix.png)">
+![alt text](https://github.com/Musthafa7232/NETFLIX-LOGGED-IN-PAGE-USING-REACT/blob/main/public/netflix.png?raw=true)
 ## Available Scripts
 
 In the project directory, you can run:
