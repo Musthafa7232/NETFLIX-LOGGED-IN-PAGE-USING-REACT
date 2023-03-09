@@ -2,6 +2,7 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+<img width=“964” alt=“java 8 and prio java 8  array review example” src="(public/netflix.png)">
 ## Available Scripts
 
 In the project directory, you can run:
